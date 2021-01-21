@@ -38,6 +38,8 @@ Row4[1] = Row3[1] + Row2[0]
 Row4[2] = Row3[2] + Row2[1] + Row1[0]
 Row4[3] = Row3[2]
 
+![like this image](terrible.png)
+
 what the f brah, i wish I could write this out better. 
 
 I'm pretty much thinking to take some position (row 4 index 2)
