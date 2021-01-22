@@ -17,11 +17,7 @@ func calcTotalSets(tuple []int) int {
 
 	for i := range tuple {
 		for j := i + 1; j <= endOf; j++ {
-			if _, ok := comboMap[tuple[i]*tuple[j]]; ok {
-				comboMap[tuple[i]*tuple[j]] += 1
-			} else {
-				comboMap[tuple[i]*tuple[j]] = 1
-			}
+			comboMap[tuple[i]*tuple[j]] += 1
 		}
 	}
 

@@ -69,7 +69,7 @@ why don't i remember any math. isn't this algebra? or is it precal or some shit
 
 ## My score
 
-Speed: faster than 70.97% of solutions (resubmit same code gave 72.58%)
+Speed: faster than ~~70.97%~~ 91.94% of solutions after removing if statement around comboMap
 
 Memory: lower memory usage 72.58% of solutions (resubmit same code gave 91.94%)
 
